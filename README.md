@@ -48,4 +48,4 @@ The workbook is structured into 4 clean layers:
 ```text
 ├── Call_Centre_Analytics_Dashboard_2023.xlsx   # Main Excel Workbook
 ├── README.md                                   # Project Documentation
-└── dashboard_preview.png                        # Dashboard Screenshot Preview
+└── dashboard_images.png                        # Dashboard Screenshot Preview
