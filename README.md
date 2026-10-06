@@ -1,7 +1,5 @@
 # Call_Centre_Report_2023
 
-# 📊 Call Centre Analytics Dashboard (2023)
-
 An interactive, single-page Excel dashboard built to analyze call center operations, sales revenue, customer ratings, and representative metrics for 2023.
 
 ---
