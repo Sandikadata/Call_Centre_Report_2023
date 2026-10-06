@@ -6,8 +6,7 @@ An interactive, single-page Excel dashboard built to analyze call center operati
 
 ---
 
-## 📌 Dashboard Preview
-![Dashboard Preview](dashboard Call centre.png)
+## 📌 Dashboard Preview.
 
 ---
 
