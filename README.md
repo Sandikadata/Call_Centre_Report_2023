@@ -7,7 +7,7 @@ An interactive, single-page Excel dashboard built to analyze call center operati
 ---
 
 ## 📌 Dashboard Preview.
-
+https://github.com/Sandikadata/Call_Centre_Report_2023/blob/main/dashboard%20Call%20centre.png
 ---
 
 ## 📂 Workbook Architecture
